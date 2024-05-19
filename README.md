@@ -11,6 +11,7 @@ Creating some test cases of git commands by forking a Udacity directory, adding 
 
 ### Files used
 not_bikeshare.py
+Note that I didn't have a bikeshare.py project, so I created a small "Hello, World" script as my test case instead.
 
 ### Credits
 Udacity!
