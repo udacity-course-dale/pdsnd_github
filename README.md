@@ -4,7 +4,7 @@
 Created on 2024/05/19.
 
 ### Project Title
-Version Control Git Course Project
+Dale's Version Control Git Project
 
 ### Description
 Creating some test cases of git commands by forking a Udacity directory, adding in some files (and ignoring others), updating documentation, and showing general good, clean git-titude!
